@@ -50,6 +50,7 @@ public class playerController : MonoBehaviour
 
         transform.position = postion;
 
-        
+
+
     }
 }
